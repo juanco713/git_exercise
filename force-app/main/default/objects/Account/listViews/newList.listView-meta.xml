@@ -8,5 +8,10 @@
     <columns>ACCOUNT.TYPE</columns>
     <columns>CORE.USERS.ALIAS</columns>
     <filterScope>Mine</filterScope>
+    <filters>
+        <field>ACCOUNT.ADDRESS1_STATE</field>
+        <operation>contains</operation>
+        <value>CA</value>
+    </filters>
     <label>newList</label>
 </ListView>

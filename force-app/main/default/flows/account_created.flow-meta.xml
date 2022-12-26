@@ -86,7 +86,7 @@
         <allowPause>true</allowPause>
         <fields>
             <name>account</name>
-            <fieldText>&lt;p&gt;{!nameInfo.lastName} has been created! &lt;/p&gt;</fieldText>
+            <fieldText>&lt;p&gt;{!nameInfo.lastName} has been created!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Just Dont Worry my fellow&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>
